@@ -1,0 +1,6 @@
+vaa-fe   --->"http://git.iccec.com.cn/esm-fe/vaa-fe.git"
+emhcms-fe   --->"http://git.iccec.com.cn/esm-fe/emhcms-fe.git"
+emzcms-fe   --->"http://git.iccec.com.cn/esm-fe/emzcms-fe.git"
+paa-fe   --->"http://git.iccec.com.cn/esm-fe/paa-fe.git"
+dpa-fe   --->"http://git.iccec.com.cn/basa-fe/dpa-fe.git"
+pma-fe   --->"http://git.iccec.com.cn/etb-fe/pma-fe.git"
